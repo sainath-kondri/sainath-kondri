@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0a66c2?style=for-the-badge)](https://sainath-kondri.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sainath-kondri-45287226a)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skondri@kent.edu)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainathsakshikondri@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@ I specialize in:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sainath--kondri.github.io-0a66c2?style=for-the-badge)](https://sainath-kondri.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sainath_Kondri-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sainath-kondri-45287226a)
-[![Email](https://img.shields.io/badge/Email-skondri@kent.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skondri@kent.edu)
+[![Email](https://img.shields.io/badge/Email-skondri@kent.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainathsakshikondri@gmail.com)
 
 </div>
 
