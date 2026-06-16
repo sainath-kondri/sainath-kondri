@@ -2,34 +2,38 @@
 
 ## Machine Learning Engineer | AI/ML Engineer
 
-I'm a Machine Learning Engineer with experience in machine learning, data processing, and analytics projects across financial services and digital advertising domains.
+I'm a Machine Learning Engineer with 2+ years of experience working on machine learning, data processing, and analytics projects across financial services and digital advertising domains.
 
-Currently pursuing an M.S. in Computer Science at Kent State University and actively building end-to-end machine learning systems involving data preprocessing, feature engineering, model training, API development, Dockerization, and MLOps workflows.
+I completed my M.S. in Computer Science from Kent State University (May 2026) and enjoy building end-to-end machine learning systems, deploying APIs, and working on practical AI solutions that can be used in real-world applications.
 
 ---
 
 ## About Me
 
-* 🎓 M.S. Computer Science, Kent State University (May 2026)
+* 🎓 M.S. in Computer Science, Kent State University (May 2026)
 * 💻 2+ years of experience in Machine Learning and Data Analytics
-* 📊 Interested in Machine Learning Engineering, Applied AI, Data Science, and MLOps
-* 🌱 Currently building production-oriented ML projects
+* 🤖 Interested in Machine Learning Engineering, Applied AI, Data Science, and MLOps
+* 🚀 Passionate about building production-oriented ML systems
 * 📍 Kent, Ohio, USA
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Programming
+### Programming Languages
 
 * Python
 * SQL
 
-### Machine Learning
+### Machine Learning & Data Science
 
 * Scikit-Learn
 * Pandas
 * NumPy
+* Machine Learning
+* Data Analysis
+* Feature Engineering
+* Model Evaluation
 
 ### API Development
 
@@ -40,14 +44,14 @@ Currently pursuing an M.S. in Computer Science at Kent State University and acti
 * MySQL
 * PostgreSQL
 
-### Cloud & Tools
+### Cloud & DevOps
 
 * AWS
 * Docker
 * Git
 * GitHub
 
-### Visualization
+### Visualization & Reporting
 
 * Power BI
 
@@ -59,7 +63,7 @@ Currently pursuing an M.S. in Computer Science at Kent State University and acti
 
 Developed an end-to-end machine learning pipeline for customer churn prediction.
 
-Key components:
+Key components include:
 
 * Data preprocessing
 * Feature engineering
@@ -68,37 +72,54 @@ Key components:
 * Dockerization
 * MLOps workflow implementation
 
-Technologies:
-
-Python, Scikit-Learn, FastAPI, Docker
+**Technologies:** Python, Pandas, Scikit-Learn, FastAPI, Docker
 
 ---
 
 ### RAG-Based AI Chatbot
 
-Built a Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from uploaded PDF documents.
+Built a Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from PDF documents.
 
-Key components:
+Key components include:
 
 * Document ingestion
-* Vector search
+* Vector database creation
+* Semantic search
 * Retrieval pipeline
 * Conversational interface
 
-Technologies:
+**Technologies:** LangChain, FAISS, Groq Llama 3, Streamlit, Python
 
-LangChain, FAISS, Groq Llama 3, Streamlit
+---
+
+## Professional Experience
+
+### Charles Schwab | Machine Learning Intern
+
+* Worked on machine learning and analytics initiatives within financial services.
+* Supported data preprocessing, feature engineering, and model development workflows.
+* Collaborated with teams to analyze data and evaluate predictive modeling approaches.
+* Utilized Python, SQL, and data analysis techniques for business-focused solutions.
+
+### HCLTech | Machine Learning Engineer
+
+* Worked on data processing and analytics solutions in the digital advertising domain.
+* Developed reusable preprocessing and feature engineering workflows.
+* Supported machine learning model development and evaluation activities.
+* Built and maintained data pipelines using Python and SQL.
 
 ---
 
 ## Education
 
-**Kent State University**
-M.S. Computer Science
+### Kent State University
+
+**Master of Science in Computer Science**
 Aug 2024 – May 2026
 
-**Bharath Institute of Higher Education and Research**
-B.Tech Computer Science
+### Bharath Institute of Higher Education and Research
+
+**Bachelor of Technology in Computer Science**
 
 ---
 
@@ -110,4 +131,4 @@ B.Tech Computer Science
 
 ---
 
-"Building practical machine learning systems and continuously learning through hands-on projects."
+*"Building practical machine learning systems and continuously learning through hands-on projects."*
