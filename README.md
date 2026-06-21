@@ -57,38 +57,24 @@ I completed my M.S. in Computer Science from Kent State University (May 2026) an
 
 ---
 
-## Featured Projects
+## Featured Project
 
 ### Customer Churn MLOps Pipeline
 
-Developed an end-to-end machine learning pipeline for customer churn prediction.
+Developed an end-to-end machine learning pipeline for customer churn prediction using the Telco Customer Churn dataset.
 
 Key components include:
 
 * Data preprocessing
 * Feature engineering
 * Model training and evaluation
-* FastAPI deployment
-* Dockerization
-* MLOps workflow implementation
+* FastAPI-based prediction API
+* Docker containerization
+* Deployment workflow
 
-**Technologies:** Python, Pandas, Scikit-Learn, FastAPI, Docker
+**Technologies:** Python, Pandas, Scikit-Learn, FastAPI, Docker, Git
 
----
-
-### RAG-Based AI Chatbot
-
-Built a Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from PDF documents.
-
-Key components include:
-
-* Document ingestion
-* Vector database creation
-* Semantic search
-* Retrieval pipeline
-* Conversational interface
-
-**Technologies:** LangChain, FAISS, Groq Llama 3, Streamlit, Python
+**Repository:** https://github.com/sainath-kondri/customer-churn-mlops-pipeline
 
 ---
 
